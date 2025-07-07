@@ -83,7 +83,6 @@ python analyzer.py --input data/chat.txt --output output/analysis.csv
 
 **Arun Joshi**
 📍 Kathmandu, Nepal
-📧 [tai.lung2062@gmail.com](mailto:tai.lung2062@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/arun-joshi-45b36a293)
 
 ---
